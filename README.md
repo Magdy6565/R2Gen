@@ -9,7 +9,13 @@
 4) !python inference.py --model_path /kaggle/working/model_jordy_bisho.pth  --tokenizer_path tokenizer.pkl --image_path /kaggle/input/chest-xrays-indiana-university/images/images_normalized/1007_IM-0008-3001.dcm.png --dataset_name iu_xray  
 
 --image_path is the path to the Image we want to make inference 
+
+
 --tokenizer_path path to the tokenizer.pkl file in the repo 
+
+
 --model_path path to the model you donwloaded in step 1 
+
+
 --dataset_name Must be iu_xray 
 
