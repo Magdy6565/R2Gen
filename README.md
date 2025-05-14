@@ -1,3 +1,5 @@
+# steps to make inference 
+
 1) Download  Model --> https://drive.google.com/file/d/1fQXpf4vz5t2QYQ89iRXv0U_OVA0MNCtJ/view
 
 2) Clone repo
